@@ -6,6 +6,7 @@ Fizz-Buzz in multiple languages.
 - C#
 - Python
 - JavaScript/NodeJs
+- Java
 - C++
 - Lua
 - Brainf*ck
