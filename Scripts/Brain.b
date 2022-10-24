@@ -1,5 +1,5 @@
 [ 
-  This doesn't actually work, it just prints the result however doesn't actually calculate orcheck if the number is 3 or 5, nor does it loop and count to 100, it's just
+  This doesn't actually work, it just prints the result however doesn't actually calculate or check if the number is divisible by 3 or 5, nor does it loop and count to 100, it's just
   a print function that prints out the expected result.
 ]
 

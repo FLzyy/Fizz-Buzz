@@ -1,7 +1,6 @@
 # Fizz-Buzz WIP
 Fizz-Buzz in multiple languages.
 
-
 ## Currently Added:
 - C#
 - Python
