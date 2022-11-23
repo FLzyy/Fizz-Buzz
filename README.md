@@ -8,7 +8,7 @@ Fizz-Buzz in multiple languages.
 - Java
 - C++
 - Lua
-- Brainf*ck
+- BrainF*
 - Swift
 - TypeScript
 - Kotlin
